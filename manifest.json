@@ -64,7 +64,7 @@
   ],
   "start_url": "/index.html",
   "display": "standalone",
-  "theme_color": "#d7cc7e",
+  "theme_color": "#5b7f63",
   "background_color": "#5b7f63",
   "id": "PWA",
   "lang": "ru",
