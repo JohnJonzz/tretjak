@@ -1,7 +1,7 @@
 {
-  "name": "Rasskazov-LTU",
+  "name": "Tretyak",
   "short_name": "PWA",
-  "description": "LTU-PWA",
+  "description": "PWA",
   "icons": [
     {
       "src": "icons/icon-32.png",
@@ -55,7 +55,7 @@
   "background_color": "#5b7f63",
   "id": "PWA",
   "lang": "ru",
-  "scope": "https://rasskazov-ltu.vercel.app/",
+  "scope": "https://tretjak-t-k-19-1.vercel.app/",
   "categories": [
     "education"
   ]
